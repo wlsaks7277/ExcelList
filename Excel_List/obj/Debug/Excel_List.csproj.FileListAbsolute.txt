@@ -1,0 +1,68 @@
+C:\Users\GDS\Desktop\pro\LineList\LineList\bin\Debug\LineList.exe.config
+C:\Users\GDS\Desktop\pro\LineList\LineList\bin\Debug\LineList.exe
+C:\Users\GDS\Desktop\pro\LineList\LineList\bin\Debug\LineList.pdb
+C:\Users\GDS\Desktop\pro\LineList\LineList\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\GDS\Desktop\pro\LineList\LineList\obj\Debug\LineList.csprojAssemblyReference.cache
+C:\Users\GDS\Desktop\pro\LineList\LineList\obj\Debug\LineList.csproj.ResolveComReference.cache
+C:\Users\GDS\Desktop\pro\LineList\LineList\obj\Debug\LineList.Data_save.resources
+C:\Users\GDS\Desktop\pro\LineList\LineList\obj\Debug\LineList.DB_Load.resources
+C:\Users\GDS\Desktop\pro\LineList\LineList\obj\Debug\LineList.LineListForm.resources
+C:\Users\GDS\Desktop\pro\LineList\LineList\obj\Debug\LineList.Properties.Resources.resources
+C:\Users\GDS\Desktop\pro\LineList\LineList\obj\Debug\LineList.Save_Record.resources
+C:\Users\GDS\Desktop\pro\LineList\LineList\obj\Debug\LineList.Show_two_sets.resources
+C:\Users\GDS\Desktop\pro\LineList\LineList\obj\Debug\LineList.csproj.GenerateResource.cache
+C:\Users\GDS\Desktop\pro\LineList\LineList\obj\Debug\LineList.csproj.CoreCompileInputs.cache
+C:\Users\GDS\Desktop\pro\LineList\LineList\obj\Debug\LineList.csproj.CopyComplete
+C:\Users\GDS\Desktop\pro\LineList\LineList\obj\Debug\LineList.exe
+C:\Users\GDS\Desktop\pro\LineList\LineList\obj\Debug\LineList.pdb
+C:\Users\GDS\Desktop\LineList\LineList\bin\Debug\LineList.exe.config
+C:\Users\GDS\Desktop\LineList\LineList\bin\Debug\LineList.exe
+C:\Users\GDS\Desktop\LineList\LineList\bin\Debug\LineList.pdb
+C:\Users\GDS\Desktop\LineList\LineList\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\GDS\Desktop\LineList\LineList\obj\Debug\LineList.csproj.ResolveComReference.cache
+C:\Users\GDS\Desktop\LineList\LineList\obj\Debug\LineList.Data_save.resources
+C:\Users\GDS\Desktop\LineList\LineList\obj\Debug\LineList.DB_Load.resources
+C:\Users\GDS\Desktop\LineList\LineList\obj\Debug\LineList.LineListForm.resources
+C:\Users\GDS\Desktop\LineList\LineList\obj\Debug\LineList.Properties.Resources.resources
+C:\Users\GDS\Desktop\LineList\LineList\obj\Debug\LineList.Save_Record.resources
+C:\Users\GDS\Desktop\LineList\LineList\obj\Debug\LineList.Show_two_sets.resources
+C:\Users\GDS\Desktop\LineList\LineList\obj\Debug\LineList.csproj.GenerateResource.cache
+C:\Users\GDS\Desktop\LineList\LineList\obj\Debug\LineList.csproj.CoreCompileInputs.cache
+C:\Users\GDS\Desktop\LineList\LineList\obj\Debug\LineList.csproj.CopyComplete
+C:\Users\GDS\Desktop\LineList\LineList\obj\Debug\LineList.exe
+C:\Users\GDS\Desktop\LineList\LineList\obj\Debug\LineList.pdb
+C:\Users\GDS\Desktop\LineList\LineList\obj\Debug\LineList.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\새 폴더\LineList\obj\Debug\LineList.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\새 폴더\LineList\obj\Debug\LineList.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\새 폴더\LineList\obj\Debug\LineList.Data_save.resources
+C:\Users\Administrator\Desktop\새 폴더\LineList\obj\Debug\LineList.DB_Load.resources
+C:\Users\Administrator\Desktop\새 폴더\LineList\obj\Debug\LineList.LineListForm.resources
+C:\Users\Administrator\Desktop\새 폴더\LineList\obj\Debug\LineList.Properties.Resources.resources
+C:\Users\Administrator\Desktop\새 폴더\LineList\obj\Debug\LineList.Save_Record.resources
+C:\Users\Administrator\Desktop\새 폴더\LineList\obj\Debug\LineList.Show_two_sets.resources
+C:\Users\Administrator\Desktop\새 폴더\LineList\obj\Debug\LineList.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\새 폴더\LineList\obj\Debug\LineList.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\새 폴더\LineList\obj\Debug\LineList.exe
+C:\Users\Administrator\Desktop\새 폴더\LineList\obj\Debug\LineList.pdb
+C:\Users\Administrator\Desktop\새 폴더\LineList\bin\Debug\LineList.exe.config
+C:\Users\Administrator\Desktop\새 폴더\LineList\bin\Debug\LineList.exe
+C:\Users\Administrator\Desktop\새 폴더\LineList\bin\Debug\LineList.pdb
+C:\Users\Administrator\Desktop\새 폴더\LineList\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\새 폴더\LineList\obj\Debug\LineList.csproj.CopyComplete
+C:\Users\Administrator\Desktop\new\LineList\bin\Debug\LineList.exe.config
+C:\Users\Administrator\Desktop\new\LineList\bin\Debug\LineList.exe
+C:\Users\Administrator\Desktop\new\LineList\bin\Debug\LineList.pdb
+C:\Users\Administrator\Desktop\new\LineList\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\new\LineList\obj\Debug\LineList.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\new\LineList\obj\Debug\LineList.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\new\LineList\obj\Debug\LineList.Data_save.resources
+C:\Users\Administrator\Desktop\new\LineList\obj\Debug\LineList.DB_Load.resources
+C:\Users\Administrator\Desktop\new\LineList\obj\Debug\LineList.LineListForm.resources
+C:\Users\Administrator\Desktop\new\LineList\obj\Debug\LineList.Properties.Resources.resources
+C:\Users\Administrator\Desktop\new\LineList\obj\Debug\LineList.Save_Record.resources
+C:\Users\Administrator\Desktop\new\LineList\obj\Debug\LineList.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\new\LineList\obj\Debug\LineList.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\new\LineList\obj\Debug\LineList.csproj.CopyComplete
+C:\Users\Administrator\Desktop\new\LineList\obj\Debug\LineList.exe
+C:\Users\Administrator\Desktop\new\LineList\obj\Debug\LineList.pdb
+C:\Users\Administrator\Desktop\new\LineList\obj\Debug\LineList.Show_two_setsTest.resources

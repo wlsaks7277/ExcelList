@@ -1,0 +1,26 @@
+C:\Users\GDS\Desktop\LineList\LinelistSVC\bin\LinelistSVC.dll.config
+C:\Users\GDS\Desktop\LineList\LinelistSVC\bin\LinelistSVC.dll
+C:\Users\GDS\Desktop\LineList\LinelistSVC\bin\LinelistSVC.pdb
+C:\Users\GDS\Desktop\LineList\LinelistSVC\obj\Debug\LinelistSVC.csproj.CoreCompileInputs.cache
+C:\Users\GDS\Desktop\LineList\LinelistSVC\obj\Debug\LinelistSVC.dll
+C:\Users\GDS\Desktop\LineList\LinelistSVC\obj\Debug\LinelistSVC.pdb
+C:\Users\GDS\Desktop\LineList\LinelistSVC\bin\Oracle.ManagedDataAccess.dll
+C:\Users\GDS\Desktop\LineList\LinelistSVC\obj\Debug\LinelistSVC.csproj.CopyComplete
+C:\Users\GDS\Desktop\LineList\LinelistSVC\obj\Debug\LinelistSVC.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\새 폴더\LinelistSVC\bin\LinelistSVC.dll.config
+C:\Users\Administrator\Desktop\새 폴더\LinelistSVC\bin\LinelistSVC.dll
+C:\Users\Administrator\Desktop\새 폴더\LinelistSVC\bin\LinelistSVC.pdb
+C:\Users\Administrator\Desktop\새 폴더\LinelistSVC\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\새 폴더\LinelistSVC\obj\Debug\LinelistSVC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\새 폴더\LinelistSVC\obj\Debug\LinelistSVC.csproj.CopyComplete
+C:\Users\Administrator\Desktop\새 폴더\LinelistSVC\obj\Debug\LinelistSVC.dll
+C:\Users\Administrator\Desktop\새 폴더\LinelistSVC\obj\Debug\LinelistSVC.pdb
+C:\Users\Administrator\Desktop\new\LinelistSVC\bin\LinelistSVC.dll.config
+C:\Users\Administrator\Desktop\new\LinelistSVC\bin\LinelistSVC.dll
+C:\Users\Administrator\Desktop\new\LinelistSVC\bin\LinelistSVC.pdb
+C:\Users\Administrator\Desktop\new\LinelistSVC\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\new\LinelistSVC\obj\Debug\LinelistSVC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\new\LinelistSVC\obj\Debug\LinelistSVC.csproj.CopyComplete
+C:\Users\Administrator\Desktop\new\LinelistSVC\obj\Debug\LinelistSVC.dll
+C:\Users\Administrator\Desktop\new\LinelistSVC\obj\Debug\LinelistSVC.pdb
+C:\Users\Administrator\Desktop\new\LinelistSVC\obj\Debug\LinelistSVC.csprojAssemblyReference.cache
