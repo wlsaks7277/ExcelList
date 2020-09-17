@@ -27,10 +27,10 @@ namespace LinelistSVC
             List<string> temp = new List<string>();
 
             bool success = false;
-            success = ConnectionDB("106.254.226.229", "ECMDB", "LINELIST", "Gdssnc7841");   // DB 연결 성공/실패 여부 리턴
-            if (success == false) { Debug.WriteLine("DB 연결 실패ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ"); }
+            success = ConnectionDB("192.168.219.108", "datalist", "jjm", "1234");   // DB 연결 성공/실패 여부 리턴
+            if (success == false) { Debug.WriteLine("DB 연결 실패"); }
 
-            string query = $@"select column_name from user_tab_columns where table_name = upper('LINELIST')";
+            string query = $@"select column_name from user_tab_columns where table_name = upper('ExcelLIST')";
             oracleCmd.CommandText = query;
             oracleCmd.CommandType = System.Data.CommandType.Text;
             OracleDataReader dr = oracleCmd.ExecuteReader();
@@ -61,8 +61,8 @@ namespace LinelistSVC
             bool success = false;
             List<string> records = new List<string>();
 
-            success = ConnectionDB("106.254.226.229", "ECMDB", "LINELIST", "Gdssnc7841");   // DB 연결 성공/실패 여부 리턴
-            if (success == false) { Debug.WriteLine("DB 연결 실패ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ"); }
+            success = ConnectionDB("192.168.219.108", "datalist", "jjm", "1234");;   // DB 연결 성공/실패 여부 리턴
+            if (success == false) { Debug.WriteLine("DB 연결 실패"); }
             string query = "SELECT SETNUMBER ,USERNAME, \"DATE\", \"COMMENT\" FROM SAVERECORD ORDER BY to_number(SETNUMBER) DESC";
             oracleCmd.CommandText = query;
             oracleCmd.CommandType = System.Data.CommandType.Text;
@@ -86,8 +86,8 @@ namespace LinelistSVC
             bool success = false;
             List<string> records = new List<string>();
 
-            success = ConnectionDB("106.254.226.229", "ECMDB", "LINELIST", "Gdssnc7841");   // DB 연결 성공/실패 여부 리턴
-            if (success == false) { Debug.WriteLine("DB 연결 실패ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ"); }
+            success = ConnectionDB("192.168.219.108", "datalist", "jjm", "1234");   // DB 연결 성공/실패 여부 리턴
+            if (success == false) { Debug.WriteLine("DB 연결 실패"); }
             string query = "SELECT SETNUMBER ,USERNAME, \"DATE\", \"COMMENT\" FROM SAVERECORD ORDER BY to_number(SETNUMBER) DESC";
             oracleCmd.CommandText = query;
             oracleCmd.CommandType = System.Data.CommandType.Text;
@@ -111,8 +111,8 @@ namespace LinelistSVC
             bool success = false;
             List<string> setNumbers = new List<string>();
 
-            success = ConnectionDB("106.254.226.229", "ECMDB", "LINELIST", "Gdssnc7841");   // DB 연결 성공/실패 여부 리턴
-            if (success == false) { Debug.WriteLine("DB 연결 실패ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ"); }
+            success = ConnectionDB("192.168.219.108", "datalist", "jjm", "1234");   // DB 연결 성공/실패 여부 리턴
+            if (success == false) { Debug.WriteLine("DB 연결 실패"); }
 
             string query = $@"SELECT SETNUMBER FROM SAVERECORD ORDER BY SETNUMBER DESC";
             oracleCmd.CommandText = query;
@@ -133,8 +133,8 @@ namespace LinelistSVC
         public string [][] Load_data_from_DB(string selected_setNumber) {
             bool success = false;
 
-            success = ConnectionDB("106.254.226.229", "ECMDB", "LINELIST", "Gdssnc7841");   // DB 연결 성공/실패 여부 리턴
-            if (success == false) { Debug.WriteLine("DB 연결 실패ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ"); }           
+            success = ConnectionDB("192.168.219.108", "datalist", "jjm", "1234");  // DB 연결 성공/실패 여부 리턴
+            if (success == false) { Debug.WriteLine("DB 연결 실패"); }           
 
             string query = $@"SELECT 
                                 SETNUMBER,LINE_SIZE, UNIT, FLUID,SEQUENCE_NUMBER, PIPING_SPEC, INSULATION, INSULATION_THK,
@@ -215,9 +215,9 @@ namespace LinelistSVC
             dataCheck(data);    // PK 중복 값 제거 하기 위한 값 체크
 
             //Oracle DB connect
-            success = ConnectionDB("106.254.226.229", "ECMDB", "LINELIST", "Gdssnc7841");   // DB 연결 성공/실패 여부 리턴
-            if (success == false) { Debug.WriteLine("DB 연결 실패!!!!!!!!!!!!!!"); return false; }
-            Debug.WriteLine("DB 연결 성공!!!!!!!!!!!!!!");
+            success = ConnectionDB("192.168.219.108", "datalist", "jjm", "1234");   // DB 연결 성공/실패 여부 리턴
+            if (success == false) { Debug.WriteLine("DB 연결 실패"); return false; }
+            Debug.WriteLine("DB 연결 성공");
             // DB에 값 넣기
             Insert_data_to_DB(data, userName, date, comment);
             
